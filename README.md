@@ -13,6 +13,11 @@ In your terminal npn run build
 Then copy the files from /dist to the server via FTP
 If you are unable to, then just push changes to GitHub repository and let Jennifer know and she can deploy the changes.
 
+# FTP Credentials
+
+Host: ftp.girlswhocode-scc.com
+Password: Please reach out to Jennifer for the password.
+
 # How to push to GitHub
 
 In terminal:

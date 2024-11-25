@@ -84,12 +84,12 @@ function App() {
             </a>
           </div>
           <div className="col-1">
-            <a href="https://discord.gg/EAGPdQRN">
+            <a href="https://www.instagram.com/gwc_seattlecentral/ ">
               <Icon file="/images/instagram.png" />
             </a>
           </div>
           <div className="col-1">
-            <a href="https://discord.gg/EAGPdQRN">
+            <a href="mailto:seattlecentralgwc@gmail.com?">
               <Icon file="/images/email.svg" />
             </a>
           </div>
